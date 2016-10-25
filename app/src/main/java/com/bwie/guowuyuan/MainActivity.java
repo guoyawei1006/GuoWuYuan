@@ -9,7 +9,6 @@ import android.support.v7.widget.RecyclerView;
 import com.google.gson.Gson;
 
 import Bean.CommunityBean;
-import Bean.DataBean;
 import adapter.MAdapter;
 import util.HttpGet;
 

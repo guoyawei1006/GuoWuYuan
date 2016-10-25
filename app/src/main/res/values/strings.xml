@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">GuoWuYuan</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="picture">入驻部门</string>
+    <string name="movie">账务联播</string>
+    <string name="music">部门大厅</string>
+
+
+
+
 </resources>
